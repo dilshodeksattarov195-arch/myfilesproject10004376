@@ -1,0 +1,12 @@
+{
+    "meta": {
+        "module": "helperdelete",
+        "uuid": 22628296,
+        "checksum": "8mgt9"
+    },
+    "settings": {
+        "retries": 4,
+        "enabled": true,
+        "mode": "staging"
+    }
+}
